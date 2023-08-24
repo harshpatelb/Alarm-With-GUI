@@ -1,6 +1,6 @@
 Sure, I'll incorporate the explanations of libraries and functions into the existing README template:
 
-```markdown
+
 # Alarm with GUI
 
 A simple alarm clock application with a graphical user interface (GUI) built using Python's `tkinter` library.
